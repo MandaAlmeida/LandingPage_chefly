@@ -1,0 +1,19 @@
+<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#FFF5E8"></rect>
+  
+  <!-- Chef hat silhouette in brand colors -->
+  <g transform="translate(420 200)">
+    <path d="M180 60 C180 0, 90 0, 90 60 C30 60, 0 100, 0 140 C0 180, 30 200, 60 200 L300 200 C330 200, 360 180, 360 140 C360 100, 330 60, 270 60 C270 0, 180 0, 180 60 Z" fill="#FFFFFF" stroke="#1A2233" stroke-width="14"></path>
+    <rect x="60" y="200" width="240" height="120" fill="#FFFFFF" stroke="#1A2233" stroke-width="14"></rect>
+    <rect x="60" y="300" width="240" height="40" fill="#FF7A00" stroke="#1A2233" stroke-width="14"></rect>
+    
+    <!-- Face -->
+    <circle cx="140" cy="260" r="8" fill="#1A2233"></circle>
+    <circle cx="220" cy="260" r="8" fill="#1A2233"></circle>
+    <path d="M150 285 Q180 305, 210 285" stroke="#1A2233" stroke-width="6" fill="none" stroke-linecap="round"></path>
+  </g>
+  
+  <!-- Brand wordmark -->
+  <text x="600" y="600" text-anchor="middle" font-family="-apple-system, system-ui, sans-serif" font-weight="800" font-size="64" fill="#1A2233" letter-spacing="-1">Chefly</text>
+  <text x="600" y="650" text-anchor="middle" font-family="-apple-system, system-ui, sans-serif" font-weight="500" font-size="22" fill="#FF7A00">carregando…</text>
+</svg>
